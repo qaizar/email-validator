@@ -21,5 +21,5 @@ OR
 Open command prompt on **Windows**
 
 ```
-bash ./emailvalidator.sh emailaddress.txt_
+bash ./emailvalidator.sh emailaddress.txt
 ```
