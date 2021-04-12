@@ -13,10 +13,10 @@ dot ., provided that it is not the first or last character and provided also tha
 
 ## Execute the validator
 
-Open the Terminal application on **Linux or Unix**
+Open the Terminal application on **Linux or Unix**. Navigate to the folder that you downloaded the two files and run the following command.
 
 ```
-$ */emailvalidator.sh emailaddress.txt
+$ ./emailvalidator.sh emailaddress.txt
 ```
 OR
 
