@@ -15,10 +15,13 @@ dot ., provided that it is not the first or last character and provided also tha
 
 Open the Terminal application on **Linux or Unix**
 
-_$ **./emailvalidator.sh** emailaddress.txt_
-
+```
+$ */emailvalidator.sh emailaddress.txt
+```
 OR
 
 Open command prompt on **Windows**
 
-_bash **./emailvalidator.sh** emailaddress.txt_
+```
+bash ./emailvalidator.sh emailaddress.txt_
+```
