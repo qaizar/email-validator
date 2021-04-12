@@ -5,13 +5,13 @@ The format of an email address is local-part@domain, where the local part may be
 
 An email address also may have an associated display name for the recipient, which precedes the address specification, now surrounded by angled brackets, for example: John Smith <john.smith@example.org>.
 
-## Local-part
+## Local-part of email address
 uppercase and lowercase Latin letters A to Z and a to z
 digits 0 to 9
 printable characters !#$%&'*+-/=?^_`{|}~
 dot ., provided that it is not the first or last character and provided also that it does not appear consecutively (e.g., John..Doe@example.com is not allowed).[5]
 
-## Tu run script
+## Execute the validator
 
 Open the Terminal application on **Linux or Unix**
 
